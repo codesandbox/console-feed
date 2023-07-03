@@ -1,5 +1,5 @@
 {
-  "name": "console-feed",
+  "name": "csb-console-feed",
   "version": "3.5.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
