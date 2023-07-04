@@ -1,6 +1,6 @@
 {
   "name": "csb-console-feed",
-  "version": "3.5.0",
+  "version": "3.5.1",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "description": "A React component that displays console logs from the current page, an iframe or transported across a server",
@@ -20,7 +20,7 @@
     "@emotion/styled": "^10.0.12",
     "emotion-theming": "^10.0.10",
     "linkifyjs": "^2.1.6",
-    "react-inspector": "^5.1.0"
+    "react-inspector": "^6.0.2"
   },
   "devDependencies": {
     "@types/enzyme": "^3.1.9",
